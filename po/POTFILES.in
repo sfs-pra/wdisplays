@@ -1,0 +1,4 @@
+src/main.c
+src/headform.c
+resources/head.ui
+resources/wdisplays.ui
