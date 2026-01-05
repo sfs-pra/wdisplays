@@ -118,3 +118,6 @@ msgstr "_Показывать содержимое экранов"
 
 msgid "_Overlay Screen Names"
 msgstr "_Показывать названия экранов"
+
+msgid "Change was applied successfully and config was saved."
+msgstr "Изменения успешно применены и конфигурация сохранена."

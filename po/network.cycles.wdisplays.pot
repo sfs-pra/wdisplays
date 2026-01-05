@@ -122,3 +122,6 @@ msgstr ""
 
 msgid "_Overlay Screen Names"
 msgstr ""
+
+msgid "Change was applied successfully and config was saved."
+msgstr ""
